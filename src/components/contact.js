@@ -43,7 +43,7 @@ function AppContact() {
             </li>
             <li>
               <i className="fas fa-phone"></i>
-              000-000-0000
+              065-874-0714
             </li>
             <li>
               <i className="fas fa-map-marker-alt"></i>
